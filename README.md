@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Мои проекты на данный момент:
+
+[Digital Project](https://github.com/Danxay/digital_project)
+[Lorem Ipsum Team Landing](https://github.com/Danxay/Lorem-Ipsum-Team-landing)
+
 <!--
 **Danxay/Danxay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
