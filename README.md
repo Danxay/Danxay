@@ -3,6 +3,7 @@
 ### Мои проекты на данный момент:
 
 [Digital Project](https://github.com/Danxay/digital_project)
+
 [Lorem Ipsum Team Landing](https://github.com/Danxay/Lorem-Ipsum-Team-landing)
 
 <!--
