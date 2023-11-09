@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Мои проекты на данный момент:
+## Мои проекты:
 
 ### [Lorem Ipsum Team Landing](https://github.com/Danxay/Lorem-Ipsum-Team-landing)
 
